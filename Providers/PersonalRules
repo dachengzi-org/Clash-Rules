@@ -1,0 +1,11 @@
+#  A personal domain list which is maintained by chengziorg
+#  All the domains listed below should ONLY be connected directly.
+
+#  Home & friends network
+DOMAIN-SUFFIX,dachengzi.org
+DOMAIN-SUFFIX,dachengzi.eu.org
+DOMAIN-SUFFIX,zuoyx.xyz
+
+
+#  Other network
+DOMAIN-SUFFIX,kemono.su
