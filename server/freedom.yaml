@@ -1,0 +1,2 @@
+proxies:
+  - {name: FREEDOM, server: 127.0.0.1, port: 1080, type: http, tls: false, skip-cert-verify: false}
