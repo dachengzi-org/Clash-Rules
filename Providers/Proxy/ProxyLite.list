@@ -3,6 +3,7 @@
 # ALL the domains in this list SHOULD be included by a proxy server instead of direct connection.
 # The proxy list should be used along with a modified version of ACL4SSR_Online_Full.ini that can be found in the same repository.
 
+
 # MyList && Other
 DOMAIN-KEYWORD,xfltd
 DOMAIN-SUFFIX,uw.edu
@@ -34,14 +35,6 @@ DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
 
 
-# Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-
 # Facebook
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
@@ -65,6 +58,7 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
+
 # Github
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,github.com
@@ -72,6 +66,7 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+
 
 # Google
 DOMAIN-KEYWORD,gmail
@@ -99,6 +94,7 @@ DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 
+
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
 IP-CIDR,120.232.181.162/32,no-resolve
 IP-CIDR,120.241.147.226/32,no-resolve
@@ -119,11 +115,13 @@ IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
 
+
 # Instagram
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
+
 
 # Line
 DOMAIN-SUFFIX,lin.ee
@@ -142,15 +140,18 @@ IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 
+
 # Reddit
 DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 
+
 # TapTap
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
+
 
 # Twitter
 DOMAIN-KEYWORD,twitter
@@ -185,6 +186,7 @@ IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
+
 
 # Wikipedia 维基相关域名
 DOMAIN-SUFFIX,mediawiki.org
