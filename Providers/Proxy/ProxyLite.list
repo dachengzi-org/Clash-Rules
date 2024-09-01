@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,washington.edu
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
+
 # Developer 开发者常用国外网站、镜像和论坛
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,elastic.co
@@ -151,17 +152,12 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,taptap.tw
 
-# Twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-KEYWORD,ttvnw
-
 # Twitter
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
@@ -204,7 +200,5 @@ DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 
-# Zoom
-DOMAIN-SUFFIX,zoom.us
-DOMAIN-SUFFIX,zoomgov.com
+
 
